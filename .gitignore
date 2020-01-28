@@ -1,3 +1,4 @@
 *.class
 *.log
 target/
+/scala-from-scratch/.idea
